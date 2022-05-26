@@ -123,7 +123,7 @@ Inventory 에서 정의한 서버들에게 무슨 작업을 수행할 것인지 
       shell: 'systemctl start docker.service'
 ```
 
-주요 항목의 설명은 아래와 같습니다.
+주요 항목 설명은 아래와 같습니다.
 * hosts : 실행할 그룹명입니다. all 으로 지정한다면 전체에게 실행하겠다는 의미입니다.
 * become : root 로 실행하겠다는 의미입니다.
 * task : 실행할 작업의 목록입니다.
