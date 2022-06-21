@@ -1,8 +1,7 @@
-## 빅데이터 분야 기술 목차
+## 빅데이터 분야 기술 목차   
 
-## AI 분야 기술 목차
+## AIoT 분야 기술 목차   
 
-## IoT 분야 기술 목차
 * IoT 개요   
 * [제조공정별 분석](https://github.com/dataignitelab/cloud_docs/blob/main/Manufacturing_Process/)
 
