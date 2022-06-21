@@ -3,6 +3,9 @@
 ## AI 분야 기술 목차
 
 ## IoT 분야 기술 목차
+* IoT 개요   
+* [제조공정별 분석](https://github.com/dataignitelab/cloud_docs/blob/main/https://github.com/dataignitelab/tech_docs/blob/main/Manufacturing_Process/)
+
 
 ## 클라우드 분야 기술 문서 목차
 
